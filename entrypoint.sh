@@ -2,9 +2,9 @@
 
 # 设置各变量，WS 路径前缀。(注意:伪装路径不需要 / 符号开始,为避免不必要的麻烦,请不要使用特殊符号.)
 WSPATH=${WSPATH:-'argo'}
-UUID=${UUID:-'de04add9-5c68-8bab-950c-08cd5320df18'}
-WEB_USERNAME=${WEB_USERNAME:-'admin'}
-WEB_PASSWORD=${WEB_PASSWORD:-'password'}
+UUID=${UUID:-'6c44de2e-0268-43ad-a2a7-876f74574cb6'}
+WEB_USERNAME=${WEB_USERNAME:-'vistal'}
+WEB_PASSWORD=${WEB_PASSWORD:-'yh525813'}
 
 # 哪吒4个参数，ssl/tls 看是否需要，不需要的话可以留空，删除或在这4行最前面加 # 以注释
 NEZHA_SERVER="$NEZHA_SERVER"
